@@ -21,11 +21,14 @@ matlab創建MIMO模擬系統
   1.MIMO 5GNR OFDM system (matlab)
   2.Calculate Capacity 
   3.ZF detector (mexfunction)
+  
 8/4
   1.channel estimation , SNR estimation , CFO estimation (matlab)
   2.LMMSE detector (mexfuntion)
+  
 8/11
   1.LLR (matlab)
   2.LDPC MSA (mexfunction)
+  
 8/18
-1.GUI (matalb)
+  1.GUI (matalb)
