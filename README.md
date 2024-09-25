@@ -5,6 +5,7 @@ matlab創建MIMO模擬系統
 6/30  
   1.cholesky decomposition (complex number)    
   2.C-mex function
+  
 7/6  
   1.SISO & MIMO system (matlab)  
   2.4QAM/16QAM/64QAM modeulation & demodulation
